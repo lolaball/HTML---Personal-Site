@@ -2,6 +2,22 @@ body {
     background-color: azure;
 }
 
+h1 {
+    color: a;
+}
+h2 {
+    color: cadetblue;
+}
+h3 {
+    color: cadetblue;
+}
+h4 {
+    color: cadetblue;
+}
+h5 {
+    color: cadetblue;
+}
+
 hr {
     background-color: azure;
     border-style: none;
